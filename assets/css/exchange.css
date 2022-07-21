@@ -38,4 +38,17 @@ img{
 #maktaba>span{
     color: #FBE30D;
 }
+.navbar2{
+    margin-top: 70px;
+    text-align: center;
+    text-decoration: none;
+    justify-content: space-between;
+    background-color: #867D2A;
+    border-radius: 70px;
+    height: 50px;
+    width:1000px;
+    margin-left: 200px;
+    
+    
+    }
 

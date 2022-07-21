@@ -51,4 +51,16 @@ img{
     
     
     }
+    a{
+        text-decoration: none;
+        padding-right: 90px;
+        padding-left: 90px;
+        color: white;
+        margin-top:100px;
+        align-items: center;
+        /* background-color:red; */
+        
+        
+        
+    } 
 

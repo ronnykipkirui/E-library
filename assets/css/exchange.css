@@ -1,0 +1,11 @@
+.Exchange,.Exchange2{
+    /* box-shadow: 6px 5px 5px 5px #888888; */
+    /* width: 15%; */
+    /* height: 180px; */
+    justify-content: space-between;
+    display: flex;
+    margin-top: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}

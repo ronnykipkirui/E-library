@@ -113,5 +113,10 @@ img{
     
     
     }
+    italic{
+        color: white;
+        font-style: italic;
+        font-weight: bold;
+    }
 
 

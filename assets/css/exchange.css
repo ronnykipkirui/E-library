@@ -118,5 +118,8 @@ img{
         font-style: italic;
         font-weight: bold;
     }
+    strong{
+        color: #FBE30D;
+    }    
 
 

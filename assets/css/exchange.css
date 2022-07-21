@@ -63,4 +63,9 @@ img{
         
         
     } 
+    button{
+        background-color: #3163AF;
+        color: white;
+        border-radius: 60px;
+    }
 

@@ -68,4 +68,19 @@ img{
         color: white;
         border-radius: 60px;
     }
+    .details{
+        color: black;
+        padding: 5%;
+        text-align: center;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 20%;
+        height: 25%;
+        background-color: #EBE7E7;
+        overflow-y: scroll;
+        display: none;
+    }
+
 

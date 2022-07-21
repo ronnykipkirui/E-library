@@ -80,8 +80,16 @@ img{
         height: 25%;
         background-color: #EBE7E7;
         overflow-y: scroll;
-        display: none;
+        /* display: none; */
     }
+    #myDIV {
+        width: 100%;
+        padding: 50px 0;
+        text-align: center;
+        background-color: #867D2A;
+        margin-top: 20px;
+        overflow-y: scroll;
+      }
     .footer {
 
         display: flex;

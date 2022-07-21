@@ -1,0 +1,133 @@
+.Exchange,.Exchange2{
+    /* box-shadow: 6px 5px 5px 5px #888888; */
+    /* width: 15%; */
+    /* height: 180px; */
+    justify-content: space-between;
+    display: flex;
+    margin-top: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+.images{
+    justify-content: space-around;
+    /* display: flex; */
+    box-shadow: 6px 5px 5px 5px #888888;
+    width: 10%;
+    /* height: 180px; */
+    /* border: 2px solid black; */
+    text-align: center;
+    padding: 2%;
+    min-width: 15%;
+    
+    
+    
+} 
+img{
+    height: 100px;
+}
+.header{
+    display: flex;
+}
+#maktaba{
+    margin-top: 3%;
+}
+.navbar{
+    background-color: #867D2A;
+}
+#maktaba>span{
+    color: #FBE30D;
+}
+.navbar2{
+    margin-top: 70px;
+    text-align: center;
+    text-decoration: none;
+    justify-content: space-between;
+    background-color: #867D2A;
+    border-radius: 70px;
+    height: 50px;
+    width:1000px;
+    margin-left: 200px;
+    
+    
+    }
+    a{
+        text-decoration: none;
+        padding-right: 90px;
+        padding-left: 90px;
+        color: white;
+        margin-top:100px;
+        align-items: center;
+        /* background-color:red; */
+        
+        
+        
+    } 
+    button{
+        background-color: #3163AF;
+        color: white;
+        border-radius: 60px;
+    }
+    .details{
+        color: black;
+        padding: 5%;
+        text-align: center;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 20%;
+        height: 25%;
+        background-color: #EBE7E7;
+        overflow-y: scroll;
+        /* display: none; */
+    }
+    #myDIV {
+        width: 100%;
+        padding: 50px 0;
+        text-align: center;
+        background-color: #867D2A;
+        margin-top: 20px;
+        overflow-y: scroll;
+      }
+    .footer {
+
+        display: flex;
+        background-color: #867D2A;
+        color: white;
+        margin: 10px 10px 10px 10px;
+        height: fit-content;
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        justify-content: space-between;
+        /* display: flex;
+        background-color: #867D2A;
+        flex-wrap: wrap;
+        
+        flex: 1;
+       
+        width: 100%;
+        color: aliceblue; */
+      
+    }
+    .footer .item {
+       
+        margin: 0.5%;
+        min-width: 22%;
+        border-radius: 4px;
+        padding: 2px;
+        color: white;
+    
+    
+    }
+    italic{
+        color: white;
+        font-style: italic;
+        font-weight: bold;
+    }
+    strong{
+        color: #FBE30D;
+    }    
+
+
